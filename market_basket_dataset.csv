@@ -1,0 +1,1001 @@
+Transaction,Items
+1,"Cheese, Cheese, Eggs"
+2,Cheese
+3,"Milk, Cheese"
+4,"Cheese, Bread, Bread, Bread"
+5,"Butter, Butter, Eggs"
+6,"Eggs, Cheese, Cheese"
+7,"Cheese, Milk, Milk"
+8,"Cereal, Cereal, Milk"
+9,"Butter, Cereal"
+10,Bread
+11,"Bread, Cheese"
+12,"Butter, Butter, Bread"
+13,"Cereal, Bread, Butter, Cheese"
+14,"Bread, Cheese, Eggs, Cheese"
+15,"Bread, Bread, Butter"
+16,"Cereal, Cheese, Butter, Milk"
+17,Bread
+18,"Milk, Cheese, Eggs, Butter"
+19,"Eggs, Butter, Bread, Butter"
+20,Cereal
+21,Butter
+22,Cheese
+23,"Butter, Bread, Butter"
+24,"Butter, Butter, Milk, Butter"
+25,"Bread, Cheese, Milk"
+26,"Eggs, Cereal, Bread"
+27,Cheese
+28,Cheese
+29,"Butter, Butter"
+30,"Cheese, Cheese, Eggs, Cereal"
+31,Cereal
+32,Cereal
+33,Eggs
+34,Eggs
+35,"Cereal, Cereal, Eggs"
+36,Cereal
+37,Bread
+38,"Bread, Eggs"
+39,"Butter, Cheese, Eggs"
+40,"Eggs, Butter, Milk"
+41,"Milk, Eggs, Cheese, Butter"
+42,"Butter, Butter"
+43,"Bread, Butter, Milk, Milk"
+44,"Eggs, Cereal"
+45,"Milk, Cereal, Butter"
+46,"Eggs, Butter, Butter, Cereal"
+47,Butter
+48,"Butter, Cereal"
+49,Eggs
+50,"Butter, Bread, Bread, Cereal"
+51,"Cereal, Cereal, Cheese"
+52,Cereal
+53,"Cheese, Bread"
+54,"Cereal, Milk"
+55,"Butter, Cereal, Bread, Bread"
+56,"Butter, Eggs, Cheese"
+57,"Cheese, Cheese, Cheese, Cereal"
+58,"Eggs, Milk"
+59,"Milk, Milk"
+60,"Cereal, Butter, Cheese"
+61,Cereal
+62,"Eggs, Eggs"
+63,"Butter, Cheese"
+64,"Bread, Butter, Bread"
+65,"Eggs, Milk"
+66,"Bread, Bread, Bread"
+67,"Eggs, Cereal, Eggs, Butter"
+68,Eggs
+69,Bread
+70,Bread
+71,"Butter, Milk"
+72,"Eggs, Cereal, Eggs, Cereal"
+73,"Bread, Cheese"
+74,"Milk, Eggs, Cheese, Cheese"
+75,"Cereal, Eggs"
+76,"Bread, Eggs"
+77,"Butter, Cheese"
+78,"Eggs, Eggs, Bread"
+79,"Bread, Bread"
+80,"Cereal, Eggs"
+81,"Cereal, Bread"
+82,"Cheese, Eggs, Cereal, Cheese"
+83,"Butter, Cereal, Cereal, Cereal"
+84,"Butter, Butter, Eggs, Milk"
+85,"Cereal, Cheese, Eggs"
+86,"Cheese, Milk"
+87,"Cereal, Milk, Bread, Bread"
+88,"Butter, Bread, Bread"
+89,"Cereal, Butter"
+90,Cereal
+91,Milk
+92,"Butter, Butter, Butter, Eggs"
+93,"Butter, Cheese, Butter"
+94,"Eggs, Butter, Cereal"
+95,"Cheese, Cereal, Eggs"
+96,Milk
+97,"Butter, Milk, Butter, Eggs"
+98,"Cheese, Butter, Butter, Bread"
+99,"Cheese, Cereal, Cheese, Cereal"
+100,"Cheese, Cereal, Cheese"
+101,Bread
+102,"Cheese, Cheese, Cereal"
+103,"Butter, Milk, Bread"
+104,Cheese
+105,"Cheese, Eggs, Cereal, Cereal"
+106,"Butter, Bread"
+107,"Cheese, Cereal, Cheese, Bread"
+108,"Cereal, Eggs"
+109,"Bread, Eggs, Butter, Bread"
+110,Bread
+111,"Butter, Butter"
+112,Eggs
+113,"Cereal, Eggs, Milk, Butter"
+114,"Milk, Eggs, Milk"
+115,"Bread, Cereal, Milk"
+116,"Cereal, Butter"
+117,Eggs
+118,"Milk, Bread, Bread"
+119,Milk
+120,"Eggs, Butter, Milk"
+121,"Bread, Cereal, Bread"
+122,"Cheese, Butter"
+123,"Bread, Cereal"
+124,"Eggs, Eggs"
+125,Cheese
+126,"Bread, Milk, Eggs"
+127,Butter
+128,"Milk, Butter"
+129,"Bread, Eggs"
+130,Cheese
+131,"Eggs, Eggs, Bread"
+132,"Cereal, Cheese"
+133,"Butter, Cereal"
+134,"Milk, Milk, Cereal"
+135,Eggs
+136,"Cereal, Butter"
+137,"Butter, Milk"
+138,Bread
+139,"Eggs, Eggs, Cheese, Butter"
+140,"Butter, Milk"
+141,"Bread, Milk"
+142,Eggs
+143,"Cereal, Cheese, Milk"
+144,"Cheese, Butter"
+145,"Cereal, Cheese, Bread, Bread"
+146,"Milk, Eggs, Cereal, Milk"
+147,"Cereal, Cereal"
+148,"Butter, Butter"
+149,"Butter, Bread, Bread"
+150,Butter
+151,Eggs
+152,"Butter, Bread, Cheese, Butter"
+153,"Cheese, Cereal"
+154,Bread
+155,"Bread, Bread, Butter, Butter"
+156,"Milk, Bread"
+157,"Milk, Cereal, Butter"
+158,"Cheese, Bread"
+159,"Milk, Cheese"
+160,"Cheese, Butter, Milk, Milk"
+161,"Cereal, Cereal, Cheese"
+162,"Cheese, Cereal, Cereal"
+163,"Cereal, Eggs, Eggs, Eggs"
+164,"Eggs, Bread"
+165,"Cereal, Bread"
+166,Cheese
+167,"Bread, Eggs"
+168,"Milk, Milk, Bread"
+169,Butter
+170,Cereal
+171,"Milk, Cereal, Milk, Butter"
+172,"Cheese, Milk, Bread"
+173,"Milk, Bread, Cereal"
+174,"Cereal, Cheese, Eggs"
+175,"Butter, Eggs, Bread, Milk"
+176,"Milk, Cheese, Cheese"
+177,"Bread, Cereal, Eggs"
+178,"Cereal, Eggs, Cheese, Milk"
+179,"Cheese, Cereal, Milk, Cheese"
+180,Bread
+181,"Milk, Milk, Butter"
+182,Cereal
+183,"Milk, Cheese"
+184,Cheese
+185,Milk
+186,Milk
+187,"Bread, Butter, Bread, Bread"
+188,"Milk, Butter, Cereal, Milk"
+189,"Eggs, Eggs, Bread, Cereal"
+190,Milk
+191,"Eggs, Eggs"
+192,"Eggs, Eggs, Eggs"
+193,"Milk, Butter, Bread"
+194,"Eggs, Butter, Butter, Bread"
+195,"Milk, Cereal, Milk, Cereal"
+196,"Eggs, Milk, Butter"
+197,"Cereal, Milk, Cheese"
+198,Cereal
+199,Butter
+200,"Bread, Bread, Milk, Milk"
+201,"Butter, Bread, Eggs"
+202,"Bread, Milk, Cheese, Cereal"
+203,"Butter, Bread"
+204,Milk
+205,"Cheese, Cereal, Cheese"
+206,"Cheese, Cheese"
+207,"Cheese, Butter, Milk"
+208,Butter
+209,"Eggs, Milk, Cheese, Bread"
+210,"Butter, Bread, Milk"
+211,"Cereal, Bread"
+212,"Eggs, Butter, Bread"
+213,Cereal
+214,"Cereal, Butter, Bread"
+215,"Cereal, Bread, Cheese, Cheese"
+216,"Bread, Eggs"
+217,"Cheese, Cereal, Cheese, Butter"
+218,Milk
+219,Milk
+220,"Milk, Butter"
+221,"Cereal, Butter, Cereal, Butter"
+222,Cereal
+223,"Butter, Eggs, Milk"
+224,"Eggs, Bread, Butter"
+225,"Bread, Cereal, Eggs"
+226,"Butter, Cereal, Butter"
+227,"Milk, Bread, Cheese"
+228,"Bread, Eggs, Cheese, Milk"
+229,Bread
+230,"Eggs, Cereal, Butter, Butter"
+231,"Milk, Cereal, Butter"
+232,Cheese
+233,"Butter, Cheese, Milk"
+234,Cheese
+235,"Bread, Milk"
+236,"Milk, Eggs, Bread"
+237,"Bread, Cereal, Eggs"
+238,Cereal
+239,"Eggs, Bread, Cereal, Bread"
+240,"Milk, Eggs"
+241,"Bread, Butter, Cheese"
+242,"Bread, Milk, Cereal, Cheese"
+243,"Butter, Cheese"
+244,"Butter, Cheese"
+245,Bread
+246,Cereal
+247,Bread
+248,"Eggs, Cheese, Cereal, Bread"
+249,"Bread, Cheese, Milk, Bread"
+250,"Butter, Cereal, Bread"
+251,"Milk, Butter, Butter"
+252,"Bread, Eggs, Cheese, Cheese"
+253,"Butter, Cereal, Eggs"
+254,"Cheese, Eggs"
+255,"Eggs, Cheese, Milk"
+256,"Bread, Butter"
+257,"Cheese, Butter, Eggs"
+258,"Milk, Eggs"
+259,Cheese
+260,"Milk, Cereal, Cheese, Butter"
+261,"Milk, Eggs, Milk, Eggs"
+262,"Bread, Butter, Eggs"
+263,Cereal
+264,"Eggs, Cereal"
+265,"Cheese, Cheese, Eggs, Eggs"
+266,Cereal
+267,"Eggs, Milk"
+268,"Eggs, Bread"
+269,"Butter, Cheese, Milk, Butter"
+270,"Cheese, Cereal, Eggs, Cereal"
+271,"Milk, Cereal, Butter, Cereal"
+272,Butter
+273,Butter
+274,"Cereal, Cereal, Cheese"
+275,Cheese
+276,"Eggs, Cereal, Milk"
+277,"Cheese, Bread, Milk"
+278,"Eggs, Cheese"
+279,"Butter, Butter, Cereal"
+280,Cereal
+281,Cheese
+282,"Bread, Eggs, Cereal, Cheese"
+283,"Butter, Bread, Cereal, Butter"
+284,Cheese
+285,"Cereal, Milk"
+286,Eggs
+287,"Cheese, Butter"
+288,Eggs
+289,Milk
+290,"Milk, Milk, Butter"
+291,"Butter, Cereal, Cereal, Butter"
+292,"Cereal, Eggs, Milk"
+293,Eggs
+294,"Milk, Bread, Milk, Cereal"
+295,Milk
+296,Milk
+297,"Butter, Bread, Butter"
+298,"Bread, Butter, Cereal"
+299,Butter
+300,"Bread, Cereal"
+301,"Bread, Eggs, Eggs"
+302,"Eggs, Milk, Cheese"
+303,Bread
+304,"Butter, Eggs"
+305,"Cheese, Cheese"
+306,"Eggs, Bread, Butter, Cheese"
+307,"Cereal, Eggs"
+308,"Cereal, Cheese, Cheese, Milk"
+309,"Butter, Butter"
+310,"Cereal, Milk"
+311,"Butter, Bread, Bread"
+312,"Cheese, Butter"
+313,"Eggs, Cereal, Cheese"
+314,Eggs
+315,"Butter, Eggs, Cereal, Butter"
+316,"Butter, Cheese, Cheese"
+317,Bread
+318,"Eggs, Cereal"
+319,"Milk, Cereal, Bread"
+320,Bread
+321,"Eggs, Eggs, Cheese, Milk"
+322,"Milk, Bread, Bread, Milk"
+323,Bread
+324,"Eggs, Bread, Eggs"
+325,"Bread, Milk"
+326,"Cereal, Cereal, Cheese"
+327,"Bread, Bread, Bread, Milk"
+328,"Bread, Cheese, Bread, Eggs"
+329,"Milk, Bread"
+330,"Bread, Butter, Cheese"
+331,"Bread, Cereal"
+332,"Butter, Milk, Cheese"
+333,Milk
+334,"Milk, Butter, Butter, Bread"
+335,Butter
+336,"Butter, Eggs, Eggs, Butter"
+337,"Eggs, Cereal, Cereal"
+338,"Bread, Bread, Milk, Milk"
+339,Bread
+340,"Milk, Butter"
+341,"Bread, Bread"
+342,"Milk, Milk, Cheese, Butter"
+343,"Butter, Butter, Cereal, Eggs"
+344,"Butter, Milk"
+345,"Cheese, Cereal, Milk, Cereal"
+346,Butter
+347,"Cereal, Cheese, Cheese, Bread"
+348,"Eggs, Bread, Cereal, Milk"
+349,"Cereal, Cheese"
+350,"Eggs, Cheese"
+351,"Butter, Eggs, Butter"
+352,"Butter, Milk, Bread, Milk"
+353,Milk
+354,Milk
+355,"Cereal, Bread, Cheese"
+356,"Eggs, Butter"
+357,"Butter, Butter, Cereal, Cheese"
+358,"Cereal, Cereal"
+359,Butter
+360,"Cheese, Cheese, Eggs, Milk"
+361,"Milk, Bread, Eggs, Butter"
+362,"Cereal, Cereal, Cheese"
+363,"Bread, Milk, Milk, Milk"
+364,"Eggs, Eggs"
+365,"Cheese, Butter, Milk"
+366,Eggs
+367,"Cheese, Cereal, Cereal"
+368,"Milk, Eggs"
+369,"Bread, Cheese, Bread"
+370,"Bread, Cereal, Cheese, Cereal"
+371,"Bread, Cheese, Eggs"
+372,"Eggs, Butter, Butter, Milk"
+373,"Eggs, Milk"
+374,"Butter, Eggs, Butter, Butter"
+375,"Butter, Eggs"
+376,"Butter, Bread, Butter"
+377,"Eggs, Cheese, Cheese, Milk"
+378,Butter
+379,"Butter, Eggs, Milk"
+380,"Milk, Eggs"
+381,Cereal
+382,"Butter, Cheese, Milk"
+383,"Butter, Milk"
+384,"Cereal, Cereal, Butter, Milk"
+385,"Eggs, Milk, Cheese"
+386,"Milk, Cheese"
+387,"Milk, Cheese, Butter"
+388,"Cereal, Bread"
+389,Butter
+390,"Eggs, Eggs, Bread, Bread"
+391,"Butter, Butter"
+392,"Milk, Bread, Eggs, Cereal"
+393,Bread
+394,"Cheese, Cheese"
+395,"Butter, Eggs, Cheese, Bread"
+396,"Eggs, Cheese, Milk, Cheese"
+397,"Eggs, Cheese, Cheese, Butter"
+398,Milk
+399,Cheese
+400,"Butter, Milk, Cheese, Butter"
+401,"Butter, Butter, Milk, Butter"
+402,"Milk, Cheese"
+403,Cereal
+404,"Bread, Butter, Milk"
+405,"Milk, Bread, Cereal"
+406,Cheese
+407,"Bread, Cheese, Butter, Cheese"
+408,"Bread, Eggs, Cereal, Milk"
+409,"Bread, Cheese, Cheese, Bread"
+410,"Milk, Cheese, Bread"
+411,Bread
+412,Milk
+413,"Cheese, Cereal, Bread"
+414,"Cheese, Eggs, Cheese, Cereal"
+415,"Milk, Cereal, Cereal"
+416,"Eggs, Bread"
+417,"Cereal, Butter"
+418,"Eggs, Milk"
+419,"Cereal, Bread, Cereal"
+420,"Butter, Eggs, Butter"
+421,"Bread, Milk, Cheese"
+422,"Milk, Eggs, Butter"
+423,"Cereal, Bread, Milk"
+424,"Butter, Eggs, Butter, Cheese"
+425,"Cereal, Cheese, Butter, Eggs"
+426,Butter
+427,Cheese
+428,"Cereal, Butter"
+429,"Cereal, Cereal, Cheese"
+430,"Bread, Butter, Milk"
+431,"Cereal, Milk, Milk, Butter"
+432,"Eggs, Bread, Butter, Cereal"
+433,"Cereal, Bread"
+434,"Bread, Bread"
+435,"Cereal, Cheese"
+436,"Cheese, Butter, Cheese, Milk"
+437,"Bread, Milk"
+438,"Eggs, Milk, Butter, Cheese"
+439,"Butter, Eggs"
+440,"Butter, Bread"
+441,"Milk, Cereal"
+442,Cheese
+443,"Eggs, Cheese"
+444,Bread
+445,"Bread, Eggs, Eggs, Eggs"
+446,"Cheese, Cheese, Eggs"
+447,"Cheese, Cheese"
+448,"Butter, Milk, Cereal, Cereal"
+449,"Cereal, Eggs"
+450,"Eggs, Butter, Butter"
+451,"Milk, Eggs, Milk, Milk"
+452,"Butter, Cereal"
+453,"Milk, Cheese, Eggs"
+454,"Cereal, Eggs, Eggs"
+455,"Cheese, Milk, Cheese, Bread"
+456,"Cereal, Cereal"
+457,"Cereal, Milk, Eggs"
+458,"Cheese, Eggs"
+459,"Cheese, Cereal"
+460,"Eggs, Bread, Cheese, Eggs"
+461,Bread
+462,Eggs
+463,"Cheese, Cheese"
+464,Milk
+465,"Bread, Butter, Milk"
+466,"Bread, Cereal, Eggs, Butter"
+467,"Milk, Milk, Bread"
+468,"Cereal, Eggs, Milk, Milk"
+469,"Cereal, Butter, Bread"
+470,"Milk, Cheese, Eggs, Eggs"
+471,Milk
+472,Milk
+473,Butter
+474,"Bread, Bread, Cereal"
+475,Milk
+476,"Butter, Butter, Cheese"
+477,"Milk, Bread"
+478,"Milk, Milk, Cereal"
+479,"Cereal, Milk"
+480,Eggs
+481,"Bread, Bread, Milk"
+482,"Milk, Milk, Cereal, Bread"
+483,Cheese
+484,Cereal
+485,Milk
+486,"Cereal, Cereal, Butter"
+487,Eggs
+488,Bread
+489,"Cereal, Cereal"
+490,"Milk, Cereal"
+491,Cheese
+492,"Eggs, Cereal, Milk, Bread"
+493,Eggs
+494,"Milk, Milk, Milk"
+495,"Bread, Butter, Butter"
+496,Bread
+497,"Bread, Milk"
+498,"Cereal, Eggs, Cereal, Milk"
+499,Milk
+500,"Cereal, Milk, Butter, Butter"
+501,"Eggs, Milk, Eggs"
+502,"Eggs, Cereal, Butter"
+503,"Eggs, Cheese, Milk, Cheese"
+504,Eggs
+505,"Bread, Cheese, Bread, Cereal"
+506,Butter
+507,Milk
+508,"Bread, Butter, Eggs"
+509,"Bread, Cereal, Milk"
+510,"Cheese, Cheese, Cheese, Cereal"
+511,Cheese
+512,Cereal
+513,"Cereal, Eggs, Eggs, Cheese"
+514,"Milk, Bread, Cereal"
+515,"Bread, Milk, Butter, Cereal"
+516,Cereal
+517,Milk
+518,Cereal
+519,"Cheese, Butter, Butter"
+520,Butter
+521,Eggs
+522,"Bread, Eggs, Butter, Butter"
+523,"Eggs, Bread, Milk"
+524,Bread
+525,"Cheese, Milk, Butter, Milk"
+526,"Butter, Cereal, Bread"
+527,Bread
+528,Cereal
+529,"Cheese, Cereal, Cheese"
+530,"Milk, Milk, Milk"
+531,"Eggs, Cereal, Cereal"
+532,"Cheese, Bread, Milk, Butter"
+533,"Butter, Cheese"
+534,Eggs
+535,"Eggs, Milk, Cereal"
+536,"Butter, Bread"
+537,Cereal
+538,"Cheese, Butter, Bread, Bread"
+539,Eggs
+540,Milk
+541,Cereal
+542,"Milk, Cheese, Cereal, Bread"
+543,"Butter, Cereal"
+544,Cereal
+545,"Butter, Eggs, Bread, Bread"
+546,"Milk, Eggs, Cereal, Cereal"
+547,Bread
+548,"Cheese, Bread, Cheese, Butter"
+549,"Cheese, Eggs, Bread"
+550,Milk
+551,"Eggs, Eggs"
+552,"Milk, Milk"
+553,"Eggs, Eggs, Bread, Eggs"
+554,Milk
+555,"Eggs, Milk, Milk, Cereal"
+556,Cereal
+557,"Eggs, Cereal, Cereal, Butter"
+558,Milk
+559,"Cereal, Cereal, Bread"
+560,Butter
+561,"Bread, Bread, Bread"
+562,Bread
+563,"Bread, Eggs"
+564,"Butter, Eggs, Bread, Cheese"
+565,Cheese
+566,"Cheese, Milk"
+567,"Bread, Cheese, Cereal"
+568,Eggs
+569,Milk
+570,"Bread, Cereal"
+571,"Cereal, Milk, Butter, Milk"
+572,"Bread, Eggs, Cheese, Bread"
+573,"Milk, Butter, Cheese"
+574,Milk
+575,"Eggs, Cereal, Milk"
+576,"Eggs, Eggs, Eggs"
+577,Bread
+578,Cheese
+579,Cereal
+580,"Eggs, Cereal, Bread, Eggs"
+581,"Bread, Butter, Milk"
+582,"Milk, Milk, Cereal"
+583,"Bread, Butter"
+584,"Cereal, Cereal, Bread"
+585,"Bread, Cereal"
+586,"Bread, Milk, Butter"
+587,Milk
+588,Bread
+589,"Milk, Eggs, Cereal, Bread"
+590,"Butter, Cereal, Cereal, Milk"
+591,"Cheese, Eggs"
+592,"Milk, Butter, Cereal"
+593,"Cheese, Eggs, Butter"
+594,"Cereal, Butter, Cheese, Cereal"
+595,"Eggs, Bread, Cheese, Cheese"
+596,"Cheese, Cheese, Cheese, Bread"
+597,"Cheese, Cereal, Cheese"
+598,"Butter, Cereal"
+599,"Eggs, Eggs, Eggs, Milk"
+600,"Cheese, Butter, Milk"
+601,"Butter, Bread, Milk, Eggs"
+602,"Eggs, Eggs, Butter, Eggs"
+603,"Cereal, Cheese, Cheese"
+604,"Eggs, Cereal, Cereal, Milk"
+605,"Butter, Butter, Eggs"
+606,"Cereal, Eggs, Cheese, Eggs"
+607,Cheese
+608,"Milk, Bread"
+609,"Butter, Butter, Butter"
+610,"Eggs, Cheese"
+611,"Eggs, Milk, Milk"
+612,"Milk, Bread, Eggs, Eggs"
+613,"Eggs, Cereal, Eggs"
+614,"Bread, Eggs"
+615,Cheese
+616,"Butter, Cereal, Cereal"
+617,"Eggs, Cheese"
+618,"Bread, Cereal, Butter, Bread"
+619,"Bread, Cereal"
+620,"Cheese, Cheese"
+621,Cheese
+622,"Milk, Butter, Eggs"
+623,"Butter, Bread, Milk"
+624,"Cheese, Cheese, Bread, Bread"
+625,"Milk, Cheese, Cereal, Bread"
+626,Butter
+627,"Butter, Bread"
+628,"Eggs, Milk"
+629,Eggs
+630,Butter
+631,"Butter, Eggs, Eggs, Eggs"
+632,"Milk, Milk"
+633,"Bread, Butter, Milk, Cheese"
+634,Eggs
+635,Milk
+636,"Cereal, Milk"
+637,"Cereal, Butter, Butter, Cereal"
+638,"Milk, Cheese"
+639,Cereal
+640,"Butter, Cereal, Milk"
+641,"Eggs, Milk, Bread, Milk"
+642,"Cheese, Butter, Bread, Bread"
+643,Bread
+644,Cheese
+645,"Cereal, Bread, Bread, Cereal"
+646,"Bread, Milk"
+647,"Cheese, Butter, Bread, Bread"
+648,"Eggs, Eggs"
+649,"Cheese, Butter, Milk, Butter"
+650,"Butter, Bread, Eggs"
+651,"Milk, Butter, Milk"
+652,Bread
+653,"Cereal, Butter"
+654,"Butter, Cereal, Cheese, Bread"
+655,"Milk, Milk, Bread"
+656,Cereal
+657,"Eggs, Cheese"
+658,"Cereal, Cereal"
+659,"Milk, Eggs, Milk, Butter"
+660,"Milk, Bread, Butter, Butter"
+661,"Cheese, Butter, Cereal"
+662,"Cereal, Milk"
+663,Butter
+664,Milk
+665,"Eggs, Milk, Butter"
+666,"Milk, Bread, Milk"
+667,"Cheese, Cereal, Eggs, Milk"
+668,"Cheese, Cheese, Bread, Milk"
+669,"Cheese, Cereal"
+670,"Milk, Cheese, Butter"
+671,"Cereal, Cheese"
+672,"Cheese, Butter"
+673,"Milk, Cheese, Butter, Bread"
+674,"Eggs, Cheese, Bread, Eggs"
+675,Butter
+676,"Milk, Milk"
+677,"Butter, Butter"
+678,"Cereal, Bread, Bread"
+679,"Cheese, Cereal, Butter, Milk"
+680,"Butter, Bread"
+681,Butter
+682,"Eggs, Cereal, Eggs"
+683,"Eggs, Milk, Cheese"
+684,"Bread, Eggs, Cheese, Butter"
+685,"Cereal, Cheese, Cereal, Bread"
+686,"Eggs, Eggs, Eggs, Butter"
+687,"Cereal, Butter, Cheese"
+688,"Butter, Cereal"
+689,"Cereal, Cheese"
+690,Cheese
+691,"Butter, Bread, Bread, Bread"
+692,Cheese
+693,"Cereal, Butter, Cereal"
+694,"Milk, Cereal, Milk, Bread"
+695,"Cheese, Butter, Butter"
+696,"Cereal, Eggs, Milk"
+697,"Bread, Eggs"
+698,"Eggs, Bread"
+699,"Cheese, Cereal, Cheese, Cheese"
+700,"Bread, Bread"
+701,"Cereal, Bread, Cereal, Cheese"
+702,Cereal
+703,Milk
+704,Eggs
+705,"Butter, Eggs, Bread"
+706,"Cheese, Eggs"
+707,Butter
+708,"Cheese, Cereal, Butter"
+709,Eggs
+710,Eggs
+711,"Milk, Milk, Cheese"
+712,"Bread, Butter, Eggs, Milk"
+713,Cheese
+714,"Milk, Bread"
+715,"Eggs, Bread, Milk, Cheese"
+716,"Eggs, Milk, Cheese, Cheese"
+717,"Bread, Cereal, Eggs"
+718,"Cereal, Eggs, Butter"
+719,"Cereal, Cheese, Bread, Cheese"
+720,"Milk, Cereal"
+721,"Bread, Bread, Cheese"
+722,"Bread, Bread, Bread, Milk"
+723,"Milk, Bread"
+724,"Eggs, Bread, Cheese"
+725,"Bread, Cereal, Bread, Eggs"
+726,"Cheese, Eggs, Milk"
+727,"Bread, Cereal, Milk"
+728,"Eggs, Milk, Cereal"
+729,"Butter, Cereal, Butter"
+730,"Cereal, Butter, Milk"
+731,"Cheese, Bread"
+732,"Butter, Milk, Milk, Bread"
+733,"Cereal, Milk, Cheese"
+734,"Milk, Bread, Bread"
+735,"Milk, Bread, Cereal"
+736,Butter
+737,"Bread, Eggs"
+738,Bread
+739,"Cheese, Butter"
+740,"Bread, Bread"
+741,"Cereal, Cheese"
+742,"Cheese, Cheese, Cereal, Bread"
+743,"Cheese, Milk, Bread"
+744,"Bread, Cereal, Cheese, Eggs"
+745,Cheese
+746,"Butter, Eggs, Cereal"
+747,"Eggs, Butter"
+748,Butter
+749,"Cheese, Cheese"
+750,"Milk, Cheese"
+751,"Bread, Cheese, Cereal, Cereal"
+752,"Cheese, Cheese"
+753,Milk
+754,"Milk, Milk"
+755,"Cheese, Cheese, Milk"
+756,"Cheese, Cheese, Cereal, Bread"
+757,"Cereal, Eggs, Eggs"
+758,"Butter, Cereal, Butter, Cereal"
+759,"Bread, Cereal, Cheese"
+760,"Cereal, Bread, Eggs"
+761,"Cheese, Eggs, Milk"
+762,Eggs
+763,"Cereal, Milk"
+764,"Cheese, Cheese"
+765,Butter
+766,"Butter, Cheese"
+767,"Cereal, Bread, Milk"
+768,"Cereal, Eggs"
+769,Eggs
+770,"Eggs, Butter, Eggs"
+771,"Cereal, Cheese"
+772,"Butter, Eggs, Milk, Cheese"
+773,"Bread, Milk"
+774,"Eggs, Butter, Eggs"
+775,"Cheese, Cereal, Eggs, Milk"
+776,"Eggs, Butter, Milk, Butter"
+777,Butter
+778,"Bread, Eggs"
+779,"Eggs, Cereal"
+780,"Eggs, Bread"
+781,"Milk, Butter, Bread, Cheese"
+782,"Eggs, Bread"
+783,"Butter, Milk, Bread"
+784,"Bread, Eggs"
+785,Milk
+786,"Eggs, Butter"
+787,"Butter, Milk, Bread"
+788,"Milk, Eggs, Cheese, Eggs"
+789,"Cheese, Bread, Butter, Butter"
+790,"Butter, Butter"
+791,Cheese
+792,"Eggs, Cheese, Milk, Cheese"
+793,"Bread, Bread"
+794,"Milk, Cheese"
+795,Cheese
+796,"Cereal, Eggs"
+797,"Eggs, Eggs, Eggs, Eggs"
+798,"Cheese, Eggs"
+799,Butter
+800,"Milk, Milk, Milk, Bread"
+801,Cereal
+802,"Milk, Milk"
+803,"Milk, Cheese"
+804,"Cereal, Butter, Cheese"
+805,Milk
+806,"Cheese, Cheese, Milk"
+807,"Bread, Bread"
+808,"Bread, Milk"
+809,"Milk, Eggs, Bread, Eggs"
+810,Milk
+811,Cheese
+812,"Milk, Cheese, Bread"
+813,Butter
+814,"Eggs, Cheese, Bread"
+815,"Butter, Butter, Milk"
+816,Eggs
+817,Butter
+818,"Butter, Milk"
+819,"Butter, Butter"
+820,"Cheese, Cereal, Bread"
+821,"Milk, Cheese"
+822,"Milk, Bread"
+823,Milk
+824,Cheese
+825,"Butter, Cheese, Eggs"
+826,"Eggs, Eggs, Cereal, Milk"
+827,Eggs
+828,"Cheese, Bread, Eggs, Butter"
+829,Cereal
+830,"Butter, Milk, Cereal, Bread"
+831,"Cheese, Eggs, Bread"
+832,Cereal
+833,"Cheese, Milk, Cereal"
+834,"Butter, Cheese, Bread, Butter"
+835,"Cereal, Butter"
+836,"Butter, Cereal, Bread"
+837,"Cereal, Cheese, Bread, Butter"
+838,Eggs
+839,"Milk, Milk, Cheese"
+840,"Butter, Milk, Cereal"
+841,"Eggs, Cereal, Eggs, Cheese"
+842,"Cheese, Milk, Bread, Milk"
+843,"Cereal, Cereal, Butter"
+844,"Cheese, Butter, Butter, Bread"
+845,"Butter, Bread, Eggs, Butter"
+846,"Cereal, Eggs, Butter"
+847,"Cereal, Bread, Milk"
+848,"Cereal, Cereal"
+849,Bread
+850,"Eggs, Cereal, Eggs, Butter"
+851,"Cereal, Cereal, Cheese, Bread"
+852,"Bread, Cheese, Bread"
+853,"Cereal, Milk"
+854,"Bread, Bread"
+855,"Bread, Cereal"
+856,"Cereal, Milk, Cheese, Milk"
+857,"Eggs, Cheese, Bread, Cereal"
+858,"Eggs, Cheese"
+859,"Cereal, Butter, Butter, Bread"
+860,Eggs
+861,"Eggs, Cereal, Butter, Cereal"
+862,"Butter, Cereal, Eggs, Milk"
+863,Butter
+864,"Cheese, Milk, Butter, Butter"
+865,"Bread, Eggs, Bread, Cheese"
+866,"Bread, Cheese, Bread"
+867,Cheese
+868,Bread
+869,"Cheese, Butter, Milk"
+870,"Bread, Milk, Cereal, Butter"
+871,"Cereal, Bread, Cheese"
+872,Bread
+873,"Butter, Butter"
+874,"Butter, Milk"
+875,"Bread, Bread, Bread, Cereal"
+876,Bread
+877,"Cereal, Bread, Cereal"
+878,"Cereal, Eggs, Cereal"
+879,Cereal
+880,"Cereal, Cereal, Butter"
+881,"Bread, Eggs, Bread, Bread"
+882,"Cereal, Cheese, Cheese, Milk"
+883,Bread
+884,Bread
+885,"Butter, Eggs, Bread"
+886,"Butter, Eggs"
+887,"Milk, Milk, Butter"
+888,Milk
+889,Cheese
+890,"Milk, Bread"
+891,"Butter, Cereal, Cereal"
+892,"Milk, Cheese"
+893,Bread
+894,Cereal
+895,Milk
+896,"Cheese, Milk"
+897,Bread
+898,"Butter, Cereal"
+899,"Milk, Butter, Milk"
+900,"Butter, Milk"
+901,"Cheese, Cereal"
+902,"Eggs, Cheese, Eggs, Cereal"
+903,Cheese
+904,"Eggs, Cheese, Milk"
+905,"Milk, Cheese, Bread"
+906,"Bread, Eggs"
+907,"Bread, Bread, Cereal, Bread"
+908,"Cereal, Eggs, Milk, Cheese"
+909,Cheese
+910,"Milk, Cheese, Eggs"
+911,"Bread, Milk, Cheese, Cereal"
+912,"Milk, Cheese, Butter"
+913,"Butter, Cereal, Cheese"
+914,"Cheese, Butter, Cereal"
+915,Milk
+916,"Eggs, Cheese"
+917,"Eggs, Bread"
+918,"Eggs, Cereal, Milk"
+919,Cereal
+920,"Eggs, Bread, Cheese, Milk"
+921,"Cheese, Bread, Bread"
+922,"Bread, Bread, Bread"
+923,Milk
+924,"Milk, Eggs, Butter"
+925,"Cereal, Cereal, Eggs, Milk"
+926,Cheese
+927,"Butter, Milk, Cereal, Cereal"
+928,"Cereal, Bread, Cheese"
+929,"Cheese, Bread, Cereal, Cereal"
+930,"Butter, Milk, Milk, Bread"
+931,"Butter, Eggs, Milk"
+932,"Butter, Milk, Cheese, Cheese"
+933,Cereal
+934,"Cheese, Butter, Cereal, Eggs"
+935,Cereal
+936,"Cheese, Cheese, Eggs"
+937,"Butter, Bread"
+938,"Milk, Cereal, Cheese, Butter"
+939,"Eggs, Butter, Cereal, Milk"
+940,"Butter, Milk, Butter"
+941,"Cheese, Bread"
+942,"Butter, Cereal, Butter"
+943,Milk
+944,"Eggs, Cheese, Butter, Cereal"
+945,"Eggs, Cheese, Bread"
+946,"Cereal, Butter, Cheese"
+947,"Bread, Bread, Eggs"
+948,"Eggs, Cheese, Bread, Cereal"
+949,"Bread, Bread"
+950,"Eggs, Milk, Milk, Cheese"
+951,"Bread, Cereal"
+952,Eggs
+953,"Butter, Eggs"
+954,"Bread, Butter"
+955,Eggs
+956,Butter
+957,"Bread, Bread, Cheese, Cheese"
+958,"Bread, Milk, Cheese"
+959,"Eggs, Eggs, Bread, Bread"
+960,"Cereal, Milk, Eggs, Milk"
+961,"Cereal, Butter, Cheese"
+962,"Milk, Milk"
+963,"Bread, Eggs"
+964,"Cereal, Cereal"
+965,"Eggs, Cheese, Eggs, Butter"
+966,"Cheese, Cheese, Butter"
+967,"Milk, Bread"
+968,"Milk, Milk, Cereal"
+969,Eggs
+970,"Bread, Eggs, Eggs"
+971,Milk
+972,"Cereal, Bread, Bread"
+973,Milk
+974,"Cereal, Cereal"
+975,"Eggs, Bread, Bread"
+976,Eggs
+977,Bread
+978,"Bread, Bread"
+979,"Bread, Bread, Cheese"
+980,"Butter, Eggs"
+981,Eggs
+982,Cereal
+983,"Butter, Cheese, Eggs, Cheese"
+984,"Milk, Bread, Milk, Cereal"
+985,"Cheese, Cheese"
+986,Eggs
+987,"Eggs, Cereal, Cereal"
+988,"Cereal, Cheese, Butter, Cheese"
+989,"Cereal, Eggs, Butter"
+990,"Milk, Bread, Bread"
+991,"Cheese, Butter, Cheese, Milk"
+992,Butter
+993,"Bread, Eggs, Bread"
+994,"Eggs, Eggs"
+995,"Cheese, Milk, Milk"
+996,"Eggs, Eggs, Cereal"
+997,"Milk, Butter"
+998,"Cereal, Milk"
+999,Milk
+1000,"Eggs, Milk, Cheese, Milk"

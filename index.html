@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MKU Analysis</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <style>
+
+        body{
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background: url("{{ url_for('static', filename='mlimage.png') }}") no-repeat center center fixed;
+    background-size: cover;
+    }
+    
+
+
+        /* Sidebar Navigation */
+        .sidebar {
+            width: 250px;
+            background: #1e293b;
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 12px;
+            box-shadow: 4px 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .sidebar h2 {
+            font-size: 18px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            color: #60a5fa;
+            letter-spacing: 1px;
+        }
+
+        .nav-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            width: 100%;
+        }
+
+        .nav-buttons button {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            width: 100%;
+            padding: 12px;
+            font-size: 14px;
+            font-weight: bold;
+            color: white;
+            background: #2563eb;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .nav-buttons button:hover, .nav-buttons button.active {
+            background: #1e40af;
+            transform: scale(1.05);
+        }
+
+        .nav-buttons button i {
+            font-size: 18px;
+        }
+
+        /* Main Content */
+        .container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            margin-left: 250px; /* Space for Sidebar */
+        }
+
+        .title {
+            font-size: 26px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+            color: #60a5fa;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            width: 500px;
+            text-align: center;
+            border-radius: 12px;
+            box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(10px);
+        }
+
+        /* File Upload */
+        .file-upload {
+            margin-top: 20px;
+        }
+
+        .file-upload input[type="file"] {
+            display: none;
+        }
+
+        .file-upload-label {
+            display: inline-block;
+            padding: 14px 25px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(135deg, #2563eb, #1e3a8a);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .file-upload-label:hover {
+            background: linear-gradient(135deg, #1e40af, #1e293b);
+            transform: scale(1.05);
+        }
+
+        .file-name {
+            margin-top: 10px;
+            font-size: 14px;
+            font-weight: bold;
+            color: #f8f9fa;
+        }
+
+        /* Submit Button */
+        .submit-btn {
+            margin-top: 20px;
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background: #2563eb;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .submit-btn:hover {
+            background: #1e40af;
+            transform: scale(1.05);
+        }
+
+        /* Error Message */
+        .error {
+            margin-top: 15px;
+            color: #ef4444;
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <div class="sidebar">
+        <h2>ML Models</h2>
+        <div class="nav-buttons">
+            <button onclick="selectAlgorithm('knn', this)"><i class="fas fa-chart-line"></i> KNN</button>
+            <button onclick="selectAlgorithm('linear_regression', this)"><i class="fas fa-chart-bar"></i> Linear Regression</button>
+            <button onclick="selectAlgorithm('kmeans', this)"><i class="fas fa-clone"></i> K-Means</button>
+            <button onclick="selectAlgorithm('naive_bayes', this)"><i class="fas fa-calculator"></i> Naive Bayes</button>
+            <button onclick="selectAlgorithm('svm', this)"><i class="fas fa-code-branch"></i> SVM</button>
+            <button onclick="selectAlgorithm('cnn', this)"><i class="fas fa-images"></i> CNN</button>
+            <button onclick="selectAlgorithm('rnn', this)"><i class="fas fa-wave-square"></i> RNN</button>
+            <button onclick="selectAlgorithm('apriori', this)"><i class="fas fa-layer-group"></i> Apriori</button>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="title">MKU Analysis</div>
+
+        <div class="card">
+            <h1>ML Model Prediction</h1>
+
+            <form method="POST" enctype="multipart/form-data">
+                <input type="hidden" name="algorithm" id="selectedAlgorithm" required>
+
+                <div class="file-upload">
+                    <input type="file" name="file" id="fileInput" required>
+                    <label for="fileInput" class="file-upload-label">Upload File</label>
+                    <p id="fileName" class="file-name">No file chosen</p>
+                </div>
+
+                <button type="submit" class="submit-btn">Predict</button>
+            </form>
+
+            {% if error %}
+                <p class="error">{{ error }}</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function selectAlgorithm(algorithm, button) {
+            document.getElementById("selectedAlgorithm").value = algorithm;
+            
+            // Remove active class from all buttons
+            let buttons = document.querySelectorAll(".nav-buttons button");
+            buttons.forEach(btn => btn.classList.remove("active"));
+
+            // Add active class to the selected button
+            button.classList.add("active");
+
+            alert("Selected Model: " + algorithm.toUpperCase().replace('_', ' '));
+        }
+
+        document.getElementById("fileInput").addEventListener("change", function() {
+            let fileName = this.files.length > 0 ? this.files[0].name : "No file chosen";
+            document.getElementById("fileName").textContent = fileName;
+        });
+    </script>
+
+</body>
+</html>
